@@ -22,4 +22,4 @@ test:
 server:
 	go run main.go
 	
-.PHONY: createdb dropdb postgres migrateup migratedown server
+.PHONY: createdb dropdb postgres migrateup migratedown serverr
